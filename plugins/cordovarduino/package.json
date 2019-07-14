@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      "cordovarduino",
+      "/home/quocmd/myApp"
+    ]
+  ],
+  "_from": "cordovarduino@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordovarduino@0.0.10",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordovarduino",
+  "_nodeVersion": "11.2.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordovarduino_0.0.10_1542642892640_0.5132171595938524"
+  },
+  "_npmUser": {
+    "email": "xavier.seignard@gmail.com",
+    "name": "xavier.seignard"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordovarduino",
+    "raw": "cordovarduino",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordovarduino/-/cordovarduino-0.0.10.tgz",
+  "_shasum": "6cf7a8a3d458db218565141c59a0c756a79ca890",
+  "_shrinkwrap": null,
+  "_spec": "cordovarduino",
+  "_where": "/home/quocmd/myApp",
+  "author": {
+    "email": "xavier.seignard@gmail.com",
+    "name": "Xavier Seignard"
+  },
+  "bugs": {
+    "url": "https://github.com/xseignard/cordovarduino/issues"
+  },
+  "cordova": {
+    "id": "cordovarduino",
+    "platforms": [
+      "android",
+      "ubuntu"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova plugin to communicate with the android USB serial port",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 14,
+    "integrity": "sha512-W3wcmuCiDJnUv73y91eEeP1zC+rqzmvgEzlnQ0I4wrX3fJ89VEV7RZzqk9tpcwz1HSOxE2OdIknevPUoaxmbCg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb8tzNCRA9TVsSAnZWagAAXy0QAIwX8M4epsIgOJ2+kCEw\nVK0p9QgJPqnIdP/2jIsHkRUiymblwTWhaPgbSxaMGi7blSMHBiwzvm5Kz4P/\n/LLhVNk1b8BqUk/JYb40cvxBu5rIdwwpjc4iWwyvpaS7DWQRHotcEIY2WWqg\n+/P1iBcZagGcTy2G0k+eI8spbDMGTelkEBrJ/oQ3dhp3CTR7Q8oIYpfWzjJP\n9JbptI8to/EQLOIaazvV9oOliuIkDe90CB8AOHKLteZCXNtO14sNVb4f/uoN\nTjJcHgzuKQTEJQhIkJYsZRxgREV7oL9KFrclKe/W1r76DBW1eTcUsW9IFPI3\nh7wYnvbKtG0F5X9/W3NJXdt/tWHMJD8cpukuLrHUJqP0dHvix69mAgrUZ2At\n/DWQ9PQuYP2jCLyOzSMZUv4jw301GDHWT0x5tjYuIJk1ewCw9E6cKNziS6Cn\nYQ0GayYS51VkoNnmuVUgO2/uf8RkOFwXUaycVCoGAgMZ40VM2i9xJ0kwhIDX\na3x1ElPsag/r+I/48kklWJy8NHAqcryvGFgMJK7vgTpi5/v038oWzfTOstXZ\nOQfIxRNF8Ajcaom2eef/Fy2JNYpmCh6hCPX9j9cPjY0yf5cHnA/wIK0zwbHT\nRqh+1i1VSkoELFT1F4Ez3ES+KKn4S0cMPgOveC0mlvwLeEEL7tzjRUUaznQz\nhojx\r\n=Ais2\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "6cf7a8a3d458db218565141c59a0c756a79ca890",
+    "tarball": "https://registry.npmjs.org/cordovarduino/-/cordovarduino-0.0.10.tgz",
+    "unpackedSize": 13390265
+  },
+  "gitHead": "2c0a0e69648191de5ab24a69ddb53272de4fd73f",
+  "homepage": "https://github.com/xseignard/cordovarduino#readme",
+  "keywords": [
+    "arduino",
+    "cordova-android",
+    "cordova-ubuntu",
+    "ecosystem:cordova",
+    "serial"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "xavier.seignard",
+      "email": "xavier.seignard@gmail.com"
+    }
+  ],
+  "name": "cordovarduino",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xseignard/cordovarduino.git"
+  },
+  "version": "0.0.10"
+}
